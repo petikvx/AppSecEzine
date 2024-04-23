@@ -49,7 +49,7 @@ Description: Reverse engineers GQL Schema and generates template payloads.
 
 URL: https://github.com/mwrlabs/SharpGPOAbuse
 More: https://labs.mwrinfosecurity.com/tools/sharpgpoabuse
-Description:  Abuse of a user’s edit rights on a Group Policy Object (GPO).
+Description: Abuse of a user’s edit rights on a Group Policy Object (GPO).
 
 URL: https://github.com/xFreed0m/KatzKatz
 Description: Python script to parse txt files containing Mimikatz output.
@@ -67,6 +67,7 @@ URL: https://github.com/hlldz/APC-PPID
 Description: Adds APC obj to the APC queue of a thread and spoof the Parent Process.
 
 URL: https://github.com/ustayready/fireprox
+More: https://github.com/mr-pmillz/gofireprox
 Description: AWS API Gateway tool for HTTP pass-through proxies for unique IP rotation.
 
 
